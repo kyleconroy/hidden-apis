@@ -8,8 +8,8 @@ package main
 import (
 	"code.google.com/p/go.net/proxy"
 	"net/http"
-  "log"
-  "io/ioutil"
+	"log"
+	"io/ioutil"
 )
 
 func main() {
